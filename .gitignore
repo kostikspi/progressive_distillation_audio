@@ -1,0 +1,5 @@
+checkpoints
+diffusion_distiller/test.pt
+data
+test
+wandb

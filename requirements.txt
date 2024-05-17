@@ -1,0 +1,16 @@
+torch~=2.2.1
+torchvision~=0.12.0
+opencv-python~=4.9.0.80
+matplotlib~=3.8.2
+scipy
+tensorfn~=0.1.28
+lmdb~=1.4.1
+tensorboard
+matplotlib
+numpy~=1.26.2
+torchaudio~=2.2.1
+tqdm~=4.66.1
+datasets~=2.15.0
+pydantic~=2.6.4
+wandb~=0.16.1
+pillow~=10.2.0
